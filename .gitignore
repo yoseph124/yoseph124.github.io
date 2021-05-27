@@ -1,6 +1,5 @@
 _site
-node_modules
-.jekyll-cache
+.DS_Store
+*.swp
 .sass-cache
-/Gemfile.lock
-/Gemfile
+*~
